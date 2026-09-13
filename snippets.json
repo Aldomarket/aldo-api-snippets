@@ -1,5 +1,14 @@
 [
   {
+    "id": "test-scraper-auto-commit-4081",
+    "title": "Test Scraper Auto Commit",
+    "category": "tools",
+    "desc": "Snippet uji coba auto commit ke repo GitHub",
+    "author": "AldoDev",
+    "file": "test-scraper-auto-commit-4081.js",
+    "createdAt": "2026-09-13T09:13:08.667Z"
+  },
+  {
     "id": "brat-canvas",
     "title": "Brat Generator Canvas (Node.js)",
     "category": "maker",
