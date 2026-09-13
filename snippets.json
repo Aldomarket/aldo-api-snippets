@@ -1,25 +1,18 @@
 [
   {
-    "id": "test-scraper-auto-commit-4081",
-    "title": "Test Scraper Auto Commit",
-    "category": "tools",
-    "desc": "Snippet uji coba auto commit ke repo GitHub",
-    "author": "AldoDev",
-    "file": "test-scraper-auto-commit-4081.js",
-    "createdAt": "2026-09-13T09:13:08.667Z"
-  },
-  {
     "id": "brat-canvas",
     "title": "Brat Generator Canvas (Node.js)",
     "category": "maker",
     "desc": "Snippet kode Javascript untuk generate stiker style Brat menggunakan @napi-rs/canvas di server lokal.",
-    "file": "brat-canvas.js"
+    "file": "brat-canvas.js",
+    "author": "AldoDev"
   },
   {
     "id": "tiktok-dl",
     "title": "TikTok No Watermark Downloader (Node.js)",
     "category": "download",
     "desc": "Contoh script memanggil API Downloader TikTok untuk mengunduh video tanpa watermark.",
-    "file": "tiktok-dl.js"
+    "file": "tiktok-dl.js",
+    "author": "AldoDev"
   }
 ]
