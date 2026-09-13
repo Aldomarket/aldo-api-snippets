@@ -1,5 +1,14 @@
 [
   {
+    "id": "randompap-5723",
+    "title": "Randompap",
+    "category": "random",
+    "desc": "Ambil pap random",
+    "author": "Aldo dev",
+    "file": "randompap-5723.js",
+    "createdAt": "2026-09-13T13:07:23.339Z"
+  },
+  {
     "id": "brat-canvas",
     "title": "Brat Generator Canvas (Node.js)",
     "category": "maker",
