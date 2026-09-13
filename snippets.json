@@ -1,5 +1,14 @@
 [
   {
+    "id": "chatgpt-3728",
+    "title": "Chatgpt",
+    "category": "ai",
+    "desc": "Ai chat, support chat, support conversation",
+    "author": "Aldo dev",
+    "file": "chatgpt-3728.js",
+    "createdAt": "2026-09-13T13:25:59.944Z"
+  },
+  {
     "id": "randompap-5723",
     "title": "Randompap",
     "category": "random",
