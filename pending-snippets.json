@@ -1,5 +1,14 @@
 [
   {
+    "id": "emailgen-6475",
+    "title": "Generator Gmail.com",
+    "category": "tools",
+    "desc": "Generate email dengan list dan support settung",
+    "author": "Aldo dev",
+    "file": "emailgen-6475.js",
+    "createdAt": "2026-09-14T18:46:11.903Z"
+  },
+  {
     "id": "hutaunator-7865",
     "title": "Hutaunator",
     "category": "tools",
