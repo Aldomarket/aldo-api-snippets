@@ -1,12 +1,12 @@
 [
   {
-    "id": "hutaunator-7865",
-    "title": "Hutaunator",
+    "id": "emailgen-6475",
+    "title": "Generator Gmail.com",
     "category": "tools",
-    "desc": "Hutaunator kayak akinator",
+    "desc": "Generate email dengan list dan support settung",
     "author": "Aldo dev",
-    "file": "hutaunator-7865.js",
-    "createdAt": "2026-09-14T18:33:25.942Z"
+    "file": "emailgen-6475.js",
+    "createdAt": "2026-09-14T18:46:11.903Z"
   },
   {
     "id": "chatgpt-3728",
