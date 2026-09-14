@@ -1,5 +1,14 @@
 [
   {
+    "id": "chat_ai-7905",
+    "title": "Chat ai",
+    "category": "ai",
+    "desc": "Chat ai 40+ model ai siap pakai",
+    "author": "Aldo dev",
+    "file": "chat_ai-7905.js",
+    "createdAt": "2026-09-14T18:56:23.848Z"
+  },
+  {
     "id": "nekopoi-9945",
     "title": "Nekopoi",
     "category": "tools",
