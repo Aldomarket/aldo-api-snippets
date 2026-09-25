@@ -1,5 +1,14 @@
 [
   {
+    "id": "snaptik-2104",
+    "title": "Snaptik",
+    "category": "download",
+    "desc": "Support Download story, Error fixx sendiri jangan manja",
+    "author": "Aldo dev",
+    "file": "snaptik-2104.js",
+    "createdAt": "2026-09-25T11:44:15.132Z"
+  },
+  {
     "id": "add-8968",
     "title": "Bacakomik",
     "category": "canvas",
