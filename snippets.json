@@ -1,5 +1,14 @@
 [
   {
+    "id": "fotolive-7304",
+    "title": "Fotolive",
+    "category": "tools",
+    "desc": "Make videos into live photos",
+    "author": "Aldo dev",
+    "file": "fotolive-7304.js",
+    "createdAt": "2026-10-02T01:40:24.635Z"
+  },
+  {
     "id": "typogaleri-7838",
     "title": "typogaleri",
     "category": "games",
