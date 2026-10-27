@@ -10,72 +10,72 @@
   },
   {
     "id": "typogaleri-7838",
-    "title": "typogaleri",
+    "title": "Typo Galeri",
     "category": "games",
-    "desc": ".",
+    "desc": "Game tebak tipografi dan galeri kata interaktif.",
     "author": "Aldo dev",
     "file": "typogaleri-7838.js",
     "createdAt": "2026-10-02T01:16:37.087Z"
   },
   {
     "id": "nontonime-7092",
-    "title": "nontonime",
+    "title": "Nonton Anime",
     "category": "random",
-    "desc": "Error fix sendiri",
+    "desc": "Integrasi scraper streaming anime dan informasi episode.",
     "author": "Aldo dev",
     "file": "nontonime-7092.js",
     "createdAt": "2026-09-25T11:53:07.176Z"
   },
   {
     "id": "snaptik-2104",
-    "title": "Snaptik",
+    "title": "Snaptik TikTok Downloader",
     "category": "download",
-    "desc": "Support Download story, Error fixx sendiri jangan manja",
+    "desc": "Download video dan story TikTok tanpa watermark.",
     "author": "Aldo dev",
     "file": "snaptik-2104.js",
     "createdAt": "2026-09-25T11:44:15.132Z"
   },
   {
     "id": "add-8968",
-    "title": "Bacakomik",
+    "title": "Baca Komik",
     "category": "canvas",
-    "desc": "Buat baca komik",
+    "desc": "Scraper pembaca komik manga dan manhwa.",
     "author": "Aldo dev",
     "file": "add-8968.js",
     "createdAt": "2026-09-20T12:45:30.506Z"
   },
   {
     "id": "doom-7019",
-    "title": "Doom html",
+    "title": "Doom HTML5",
     "category": "games",
-    "desc": "Game Doom sejenis tembak\" an",
+    "desc": "Game retro Doom klasik berbasis HTML5 canvas.",
     "author": "Aldo dev",
     "file": "doom-7019.js",
     "createdAt": "2026-09-14T18:58:41.006Z"
   },
   {
     "id": "emailgen-6475",
-    "title": "Generator Gmail.com",
+    "title": "Generator Gmail",
     "category": "tools",
-    "desc": "Generate email dengan list dan support settung",
+    "desc": "Generate email dengan list dan support setting kustom.",
     "author": "Aldo dev",
     "file": "emailgen-6475.js",
     "createdAt": "2026-09-14T18:46:11.903Z"
   },
   {
     "id": "chatgpt-3728",
-    "title": "Chatgpt",
+    "title": "ChatGPT",
     "category": "ai",
-    "desc": "Ai chat, support chat, support conversation",
+    "desc": "Integrasi AI chat bot dan multi-turn conversation.",
     "author": "Aldo dev",
     "file": "chatgpt-3728.js",
     "createdAt": "2026-09-13T13:25:59.944Z"
   },
   {
     "id": "randompap-5723",
-    "title": "Randompap",
+    "title": "Random Image PAP",
     "category": "random",
-    "desc": "Ambil pap random",
+    "desc": "Ambil gambar estetik acak untuk integrasi bot.",
     "author": "Aldo dev",
     "file": "randompap-5723.js",
     "createdAt": "2026-09-13T13:07:23.339Z"
